@@ -46,5 +46,5 @@ It improves upon previous methods by using a **CNN model** trained to recognize 
    - OpenCV is used to overlay detected landmarks on images.  
    - Potential real-world applications include **face filters, AR, and facial recognition**.  
 
----
+
 
